@@ -17,7 +17,9 @@ top: 0;
 right: 0;
 width: 100px;
 text-align: center;
-background-color: lightcoral;}
+background-color: lightcoral;
+border-left: 5px solid black;
+border-bottom: 5px solid black;}
 
 
 .sub_head2{position: absolute;
@@ -25,7 +27,9 @@ background-color: lightcoral;}
   right: 0;
 width: 100px;
 text-align: center;
-background-color: firebrick;}
+background-color: firebrick;
+border-left: 5px solid black;
+border-bottom: 5px solid black;}
 
 
 
@@ -34,7 +38,9 @@ background-color: firebrick;}
     right: 0;
   width: 100px;
 text-align: center;
-background-color: khaki;}
+background-color: khaki;
+border-left: 5px solid black;
+border-bottom: 5px solid black;}
 
 
 
