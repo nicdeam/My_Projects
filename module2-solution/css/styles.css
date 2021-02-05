@@ -18,8 +18,8 @@ right: 0;
 width: 100px;
 text-align: center;
 background-color: lightcoral;
-border-left: 5px solid black;
-border-bottom: 5px solid black;}
+border-left: 1px solid black;
+border-bottom: 1px solid black;}
 
 
 .sub_head2{position: absolute;
@@ -28,8 +28,8 @@ border-bottom: 5px solid black;}
 width: 100px;
 text-align: center;
 background-color: firebrick;
-border-left: 5px solid black;
-border-bottom: 5px solid black;}
+border-left: 1px solid black;
+border-bottom: 1px solid black;}
 
 
 
@@ -39,13 +39,13 @@ border-bottom: 5px solid black;}
   width: 100px;
 text-align: center;
 background-color: khaki;
-border-left: 5px solid black;
-border-bottom: 5px solid black;}
+border-left: 1px solid black;
+border-bottom: 1px solid black;}
 
 
 
 .left_div{float: left;
-border: 5px solid black;
+border: 1px solid black;
 width: 30%;
 padding: 15px;
 padding-top: 40px;
@@ -54,7 +54,7 @@ margin-right: 2%;
 background-color: dimgrey;
 position: relative;}
 
-.center_div{float: left;border: 5px solid black;
+.center_div{float: left;border: 1px solid black;
   width: 30%;
 padding: 15px;
 padding-top: 40px;
@@ -62,7 +62,7 @@ margin-right: 2%;
 background-color: dimgrey;
 position: relative;}
 
-.right_div{float: left;border: 5px solid black;
+.right_div{float: left;border: 1px solid black;
   width: 30%;
 padding: 15px;
 padding-top: 40px;
